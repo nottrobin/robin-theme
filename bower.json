@@ -1,0 +1,7 @@
+{
+  "name": "robin-theme",
+  "ignore": [],
+  "dependencies": {
+    "web-style-guide": "git@github.com:nottrobin/web-style-guide.git"
+  }
+}
